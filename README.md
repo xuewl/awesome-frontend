@@ -53,6 +53,7 @@
 - [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/Office-UI-Fabric)
 - [Polymer - Google发布的Web组件构建框架](https://www.polymer-project.org)
 - [Layui - 经典模块化前端UI框架](https://github.com/sentsin/layui/)
+- [ZUI - 开源HTML5跨屏框架](http://zui.sexy/)
 
 ## 2. JavaScript 框架汇总
 
@@ -73,7 +74,7 @@
     - [Mint UI：基于 Vue.js 的移动端组件库](https://github.com/ElemeFE/mint-ui)
     - [Vux - 基于 Vue 和 WeUI 的 UI 组件库](https://github.com/airyland/vux)
     - [vonic - 基于 Vue.js 和 Ionic 的移动 UI 组件库](https://github.com/wangdahoo/vonic)
-    - [vuetify - vue2.0组件库](https://github.com/vuetifyjs/vuetify)
+    - [vuetify - vue2.0组件库](https://github.com/vuetifyjs/vuetify)
     - [iView - 一套基于 Vue.js 的高质量 UI 组件库](https://github.com/iview/iview)
     - [vue-i18n](https://github.com/kazupon/vue-i18n)
   - [Can.js](http://canjs.com/guides/Utilities.html)
@@ -870,7 +871,7 @@
 - 前端编码规范( Standard Style ) 
   - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
   - [JavaScript Standard Style](https://github.com/feross/standard)
-  
+
 # 书籍( Frontend-related Books )
 
 - [Front-End Developer Handbook 2016](https://www.frontendhandbook.com/index.html)
